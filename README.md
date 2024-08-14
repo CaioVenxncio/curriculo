@@ -3,95 +3,79 @@ layout: template.liquid
 permalink: /
 ---
 
-# Rodrigo Barbosa Dornelles
+# Caio Venancio da Silva
 
-* **Email:** [rodrigo.dornelles.poa@gmail.com](mailto:rodrigo.dornelles.poa@gmail.com)
-* **Linkedin:** [linkedin.com/in/rodrigo-poa](https://linkedin.com/in/rodrigo-poa)
-* **Github:** [github.com/rodrigodornelles](https://github.com/rodrigodornelles)
-* **Whattsapp / Fone:** [+55 (51) 981496505](https://wa.me/+5551981496505)
+* **Email:** [caiovenanciocommercial@gmail.com](mailto:caiovenanciocommercial@gmail.com)
+* **Linkedin:** [https://www.linkedin.com/in/caio-venancio/](https://www.linkedin.com/in/caio-venancio/)
+* **Github:** [https://github.com/CaioVenxncio](https://github.com/CaioVenxncio)
+* **Whattsapp / Fone:** [+55 (11) 932881071](https://wa.me/+55511932881071)
 
 ## Resumo de habilidades
 
 ### Programação
 
-Desenvolvedor com 7 anos de experiência comprometido com a integridade e qualidade das aplicações. Foco na manutenção do código e excelência do projeto é essencial para garantir a longevidade e confiabilidade do sistema de software. Sempre atento aos padrões da indústria, como técnicas avançadas, boas práticas, ISOs e RFCs, utilizando as linguagens de programação mais eficientes em resolver os problemas, para assegurar que os produtos entregues sejam de alta qualidade e atendam às expectativas dos clientes.
-
-### Infraestrutura cloud
-
-Com uma vasta experiência em servidores privados (VPS), cloud OCI (Oracle) e on-premise. Tenho um histórico comprovado de arquitetar servidores de produção e desenvolvimento, desde a instalação física de dispositivos até a configuração de ambientes dinâmicos e automatizados. Minha expertise abrange todas as etapas do processo, garantindo infraestrutura robusta e eficiente.
-
-<!--
-
-### Desenvolvimento de jogos
-
-Sou um entusiasta no desenvolvimento de jogos, com um profundo interesse em explorar como os jogos superam limitações técnicas através de novas mecânicas. No meu tempo livre, dedico-me a criar jogos homebrew para consoles antigos, desafiando minha criatividade e capacidade de extrair o máximo do hardware disponível.
-
--->
+Sou um Engenheiro de Software em formação, atualmente cursando o segundo semestre da graduação em Engenharia de Software. Tenho experiência em JavaScript, Python, HTML e CSS, com foco no desenvolvimento de soluções web voltadas para UX/UI, utilizando frameworks como React.js e Node.js. Também possuo habilidades em DevOps, com conhecimentos em Git, Docker e AWS para automação e implantação na nuvem. Sou apaixonado por inovação e estou sempre em busca de novos desafios para aprimorar minhas habilidades técnicas e contribuir de forma colaborativa em projetos.
 
 ### Soft Skills e Liderança
 
 `soft skills: artistic, curiosity, creativity, team work, resilience, work under pressure, presentation skills.`
 
-Tenho habilidade para unir pessoas e impulsionar projetos. Atuo como uma ponte entre equipes, constantemente pesquisando maneiras de aprimorar processos e envolvendo profundamente em projetos que interessam. Naturalmente, assumo papéis de liderança em iniciativas de melhoria.
+Tenho facilidade em conectar pessoas e impulsionar projetos, atuando como um elo entre diferentes equipes. Sempre busco maneiras de otimizar processos e me envolvo ativamente em projetos que me interessam, assumindo naturalmente papéis de liderança em iniciativas de melhoria.
 
 ## Experiência profissional `work history`
 
-### Analista em SRE DevSecOps Groovy, Python, Lua - 09/2023 - atualmente <br>Creare Sistemas LTDA.
+### General Manager - Laetus Gaming [04/2020 a 02/2021]
 
-> Empresa do ramo de logistica e inteligencia no setor agro.
+> Organização de E-Sports situada em São Paulo
 
-Reconhecido como funcionário destaque no primeiro mês de trabalho por trazer melhorias no processo de desenvolvimento de softwares na empresa, Pesquisar sobre migração de servidores para processadores ARM a fim de reduzir custos e melhorar o desempenho, Pesquisa e elaboração de técnicas e documentações para compliance da ISO 27001, Desenvolvimento de sistema de auditoria para os produtos utilizados pelos clientes da empresa, Inovar os pipelines permitindo uma configuração mais simples de build para java, kotlin, flutter, node, typescript. (tanto mobile quanto backend e backend), Integração entre os sistemas devops como kubernets keycloak, ldap, github, sonarqube, nexus, zabbix, jenkin e jira.
+Na Laetus Gaming, tive meu primeiro contato profissional com o cenário de e-sports, o que despertou meu interesse e desejo de aprender mais sobre esse mercado em constante evolução. Durante meu período na Laetus Gaming, tive a oportunidade de participar diretamente do rebranding da marca, anteriormente conhecida como Wanted Esports. Essa experiência me proporcionou um entendimento mais profundo do mercado, especialmente do ponto de vista publicitário, e contribuiu significativamente para o meu desenvolvimento profissional. A Laetus Gaming me deu a oportunidade de mergulhar no mercado de e-sports no Brasil, ampliando meu conhecimento e paixão por esse setor em crescimento.
 
-### Analista em desenvolvimento de firmware - C ANSI, Python - 04/2022 a 03/2023 <br>Perto S.A. Periféricos para Automação
+### General Manager - The Cartel Esports [03/2021 a 02/2022]
 
-> Industria multinacional brasileira referencia no setor bancário.
+> Organização de E-Sports situada em Hamburgo, Alemanha.
 
-Desenvolvimento de melhorias no sistema antifraude utilizado em caixas eletrônicos (ATMs), adicionar suporte de novos fornecedores para firmware de impressoras térmicas e anti-fraude, Pesquisar inteligência artificial na utilização em sensores de estacionamento e cofres inteligentes, Começar uma nova cultura devops de implementação de testes unitários e automatização de CI/CD no time de engenharia.
-
-### Analista em desenvolvimento web backend - PHP, Javascript - 09/2017 a 03/2022<br>Dynamika Soluções WEB LTDA.
-
-> Empresa de comunicação do ramo de licitações para sites intitucionais.
-
-Responsabilidade de arquitetar e acompanhar infraestrutura para suportar em torno 2.0000.000 (dois milhões) de acessos diários, liderar equipe com 4 pessoas, e supervisionar o desenvolvimento dos projetos. Desenvolvimento e publicação de projetos web em ambiente de produção, foram mais de 30 prefeituras, também mais de 15 câmaras e conselhos profissionais.
+Como General Manager da organização alemã TheCartel Esports, fui responsável por liderar e coordenar todas as operações da equipe, incluindo a contratação e manutenção de talentos, o desenvolvimento de estratégias de jogo e a gestão de recursos financeiros. Durante minha gestão, a equipe conquistou diversos títulos e alcançou um alto desempenho competitivo, culminando na premiação como a melhor organização da América do Sul em 2021. Minhas responsabilidades também incluíram a criação e implementação de estratégias de marketing e comunicação para aumentar o engajamento da comunidade e expandir a marca da organização. Minha experiência na TheCartel Esports me proporcionou insights valiosos sobre liderança, gestão de equipes e operações no cenário competitivo de e-sports.
 
 ## Projetos e Conquistas `achievements and recognition`
 
-### Colaborador do framework Fastify - Javascript, Typescript - 05/2024
+### Apple Vision
 
-> Um dos maiores frameworks nodejs com mais de 1.500.000 downloads por semana.
+> Desenvolvi um clone do site da Apple para o Apple Vision Pro, utilizando HTML5, CSS3 e JavaScript, com informações sobre o produto, especificações técnicas, depoimentos e um formulário de contato.
 
-Sou o principal mantenedor do plugin oficial [fastify-elasticsearch](https://github.com/fastify/fastify-opensearch) e também um membro ativo da comunidade contribuindo para bibliotecas como [fastify-oauth2](https://github.com/fastify/fastify-oauth2), além de realizar melhorias na documentação, tipagem e ajudar a planejar novos recursos para o ecossistema.
+Desenvolvi um clone do site da Apple para o [Apple Vision](https://github.com/CaioVenxncio/applevisionproclone) Pro como parte do meu aprendizado em desenvolvimento web, utilizando HTML5, CSS3 e JavaScript. O projeto inclui uma página inicial com informações sobre o produto, uma seção de especificações técnicas, depoimentos de usuários e um formulário de contato. Para executar o projeto, clone o repositório e abra o arquivo index.html em um navegador web.
 
-### Criação de biblioteca frontend - Typescript - 12/2023
+### Clone da Página Inicial da Amazon
 
-> superou os 1.000 downloads.
+> Desenvolvi um clone estático da página inicial da Amazon usando HTML5 e CSS3, recriando fielmente o layout, cores e tipografia, com um design responsivo que se adapta a diferentes tamanhos de tela.
 
-[Gamepadzilla](https://github.com/RodrigoDornelles/npm-gamepadzilla) surgiu da falta de alternativas adequadas para o um projeto. É uma solução simples, rápida e sem dependências, sendo a única que conta com testes unitários. Além de resolver o problema, preencheu uma lacuna que outras bibliotecas não conseguiram suprir.
+Este projeto consiste em um clone estático da página inicial da [Amazon](https://github.com/CaioVenxncio/amazonhomepage), desenvolvido com HTML5 e CSS3. O objetivo foi praticar e aprimorar habilidades em desenvolvimento web front-end, recriando com precisão a aparência visual da página, incluindo layout, cores, tipografia e elementos gráficos. O design é responsivo, garantindo uma experiência de usuário consistente em dispositivos móveis e desktop.
 
-### Criação de um jogo para console dos anos 1980 - C ANSI, Assembly - 12/2022
+### Aplicativo de Previsão do Tempo
 
-> com cerca de 380% de performance em relação aos jogos da época.
+> Criei uma aplicação web que fornece previsões meteorológicas em tempo real, incluindo temperatura, umidade, velocidade do vento e ícones climáticos dinâmicos.
 
-[Kokobatoru](https://psywave-games.github.io/coco-battle-royale-2/) foi um jogo estilo homebrew desenvolvido em C e Assembly de 6502, onde pude entender melhor sobre computação e reinventar como pensar enquanto programava em um hardware bastante limitado.
+Desenvolvi uma aplicação web de [previsão do tempo](https://github.com/CaioVenxncio/weatherapp) que permite aos usuários inserir o nome de uma cidade para obter informações meteorológicas em tempo real. A aplicação exibe dados como temperatura, umidade e velocidade do vento, e utiliza ícones de clima dinâmicos que se ajustam conforme a condição climática atual. Utilizei HTML, CSS e JavaScript para criar um design responsivo e moderno.
 
-### Criação de uma linguagem de programação - C ANSI - 12/2021
+### Music Player Web
 
-> superou os 1.000 downloads e pode ser instalado em 25 plataformas.
+> Desenvolvi um Music Player com HTML, CSS e JavaScript, oferecendo reprodução de músicas em MP3, controles dinâmicos e uma interface responsiva.
 
-[3BC](https://3bc-lang.org) Language é um Interpretador de linguagem em baixo nível, desenvolvida com o foco de aprendizado e desenvolvimento de produtos programáveis, é capaz de funcionar desde de computadores antigos da década de 70, videogames, embarcados, navegadores, containers e até computadores modernos ou mainframes.
+Desenvolvi um [Music Player](https://github.com/CaioVenxncio/musicplayer) usando HTML, CSS e JavaScript, criando uma interface intuitiva e dinâmica para uma experiência de audição agradável. O player suporta reprodução de músicas em formato MP3 e inclui controles para play, pause e avanço/retrocesso, além de uma barra de progresso para acompanhar o tempo da música. A interface é responsiva, adaptando-se a diferentes tamanhos de tela, e utiliza Font Awesome para ícones.
 
-### 2° Lugar em concurso internacional de PCB artísticas - 12/2020
+### Participante do Challenge da FIAP em Parceria com a Mahindra Racing
 
-> PCBWAY é uma das maiores empresas de PCB no mundo.
+> A Mahindra Racing é uma equipe de corridas que participa da Fórmula E, uma competição de carros elétricos que promove inovação e sustentabilidade no automobilismo.
 
-Organizadora da competição foi a marca chinesa PCBWAY, fabricante de placas de circuitos, disputa ocorreu entre diversos participantes inclusive renomados em desafios de construção de “badges”.
+Fui participante do Challenge da FIAP, uma competição em parceria com a Mahindra Racing, onde colaborei no desenvolvimento de soluções inovadoras para o setor de Fórmula E.
+
+### Participante do Global Solution da FIAP em Parceria com a Voice of the Oceans
+
+> Voice of the Oceans é uma organização que trabalha para proteger os oceanos e a vida marinha, promovendo a conscientização e soluções sustentáveis para preservar o meio ambiente marinho.
+
+Participei do Global Solution da FIAP em parceria com a Voice of the Oceans, onde contribuí para soluções inovadoras voltadas para a preservação e proteção dos oceanos.
 
 ## Formação acadêmica `education`
 
-### Técnico em Tecnologia da Informação - 03/2016 a 07/2018<br>Alcides Maya
+### Engenharia de Software - 03/2024 a 12/2027<br> FIAP
 
-Arquitetura de Computadores, Redes de Computadores, Análise de Sistemas,  Metodologia para Elaboração de projetos.
-
-### Menor Aprendiz em Automação Industrial - 03/2014 a 11/2015<br>SENAI Visconde de Mauá
-
-Elétrica Predial, Elétrica Industrial, Eletropneumática, Automação Industrial, Proteção do meio ambiente e segurança do trabalho.
+Desenvolvimento de Software, Arquitetura, Programação, Sistemas, Tecnologia.
